@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-FF69B4?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
@@ -54,7 +55,6 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BhanukaC&show_icons=true&count_private=true&theme=light" alt="BhanukaC" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanukaC&layout=compact&theme=light" alt="BhanukaC" />
-    
 </p>
 
 ---
