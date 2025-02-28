@@ -53,6 +53,7 @@
 ### 📈 GitHub Stats
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BhanukaC&show_icons=true&count_private=true&theme=light" alt="BhanukaC" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanukaC&layout=compact&theme=light" alt="BhanukaC" />
     
 </p>
 
